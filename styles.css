@@ -2,9 +2,6 @@
   box-sizing: content-box;
   margin: 0px;
   padding: 0px;
-  height: 800px;
-  max-width: 1400px;
-  margin: 0 auto;
 }
 
 
@@ -13,6 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 
 .main-container {
@@ -45,9 +43,6 @@ img {
   color:  hsl(218, 44%, 22%);
   font-family: 'Outfit', sans-serif;
   font-size: 22px;
-  height: auto;
-}
-#bottom-text {
   height: auto;
 }
 
